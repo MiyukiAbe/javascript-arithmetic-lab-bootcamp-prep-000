@@ -1,6 +1,5 @@
 
-function add(a,b) {
-  sum = a + b
-}
+var a = 5
+var b = 8
 
-add(3,5)
+var sum = a + b
