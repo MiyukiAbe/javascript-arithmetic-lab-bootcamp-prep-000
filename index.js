@@ -6,8 +6,8 @@ beforeEach(function() {
   b = Math.floor(Math.random() * 1000)
 })
 
-function add(a,b) {
+function add(a, b) {
   a + b
 }
 
-add(a,b)
+add(a, b)
