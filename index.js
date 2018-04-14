@@ -27,5 +27,5 @@ function makeInt(n) {
   return parseInt(n)
 }
 
-makeInt();
+makeInt('0e0');
 
