@@ -1,2 +1,3 @@
-80 + 1
+var number = 5
 
+number += 6
